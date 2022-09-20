@@ -5,5 +5,6 @@
 - 💻 I am looking to collaborate with other content creators.
 - 📝 Goals: Contribution to open source Projects.
  ### Contact: 
+  [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:namraikram78@gmail.com)
   
  
